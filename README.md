@@ -17,3 +17,18 @@ coklu secim yapmaya da izin veriyor. Action ve drama secili ise hem action hem d
 
 #### Bonus
 - search yapildiktan sonra search yapilan inputu bosaltalim.
+
+---
+
+### Diagram
+![SetupIndex](scripts.png)
+
+
+```
+Bu projenin sınırları dışında kalan gelişmiş çalışmanın bilgileri :
+
+repo : https://github.com/hakkisabah/serverless-example-moviesdb.space
+
+demo : https://www.moviesdb.space
+```
+
